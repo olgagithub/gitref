@@ -1,1 +1,5 @@
-a new version of readme
+<<<<<<< HEAD
+this is readme
+=======
+this is readme 
+>>>>>>> fix_readme
